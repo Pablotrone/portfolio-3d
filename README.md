@@ -36,7 +36,7 @@ A modern, interactive portfolio website built with React, Three.js, and Django. 
 
 **1**. Clone the repository
    ```bash
-   git clone https://github.com/YOUR_USERNAME/portfolio-3d.git
+   git clone https://github.com/pablotrone/portfolio-3d.git
    cd portfolio-3d
 ```
 
